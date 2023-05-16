@@ -1,0 +1,8 @@
+<?php 
+
+$copyrigth = "By Martin";
+
+
+
+
+?>

@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Film",
+        "nom": "Forrest Gump",
+        "annee": 1994,
+        "description": "C'est l'hisoire de Forest Gump qui court."
+    },
+    {
+        "type": "Série",
+        "nom": "Game Of Thrones",
+        "annee": 2011,
+        "description": "C'est l'histoire d'hommes chevaliers qui se font attaquer par des bonhommes de neiges."
+    },
+    {
+        "type": "Livre",
+        "nom": "The Witcher",
+        "annee": 1992,
+        "description": "C'est l'histoire de Géralt qui tue des montres."
+    },
+    {
+        "type": "Jeu",
+        "nom": "Candy Crush Saga",
+        "annee": 2012,
+        "description": "Jeu de logique avec des bonbons. Miam."
+    }
+]
